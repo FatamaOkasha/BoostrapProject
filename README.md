@@ -4,6 +4,8 @@
 
 This project is a furniture showcase website built with HTML and Bootstrap. It features a modern design to display various furniture products, services offered, and company information. The site includes sections for navigation, services, product cards, and an about section, all styled with Bootstrap and custom CSS.
 
+This project is deployed on vercel and its [link](https://furniture-boostrap-project.vercel.app/  "https://furniture-boostrap-project.vercel.app/") 
+
 ## Features
 
 - **Responsive Navbar**: Includes links to various sections such as Home, Shop, Brands, and Contact.
