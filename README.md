@@ -21,6 +21,9 @@ This project is a furniture showcase website built with HTML and Bootstrap. It f
 - **Boxicons**: Icon library for social media and other icons.
   
 ![Furniture Showcase](https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-1.PNG?raw=true)
+![Furniture Showcase](https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-2.PNG?raw=true)
+![Furniture Showcase](https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-3.PNG?raw=true)
+![Furniture Showcase](https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-4.PNG?raw=true)
 
 
 ## Setup
