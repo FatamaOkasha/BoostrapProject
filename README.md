@@ -19,7 +19,8 @@ This project is a furniture showcase website built with HTML and Bootstrap. It f
 - **Bootstrap**: CSS framework for responsive design and styling.
 - **Custom CSS**: Additional styling for specific elements.
 - **Boxicons**: Icon library for social media and other icons.
-  ![image alt]("https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-1.PNG?raw=true")
+  
+![Furniture Showcase](https://github.com/FatamaOkasha/FurnitureBoostrapProject/blob/master/furniture-1.PNG?raw=true)
 
 
 ## Setup
